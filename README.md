@@ -16,7 +16,7 @@ chr1      56200   56350
 
 
 #Usage 
-**chmod 775 tabsep**
+**chmod 775 tabsep** 
 **./tabsep file.txt**
 
 Output **file.txt**

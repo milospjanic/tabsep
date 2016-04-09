@@ -5,15 +5,10 @@ To convert multiple spaces tabs to a single tab use the code below:
 Input **file.txt**
 <pre>
 chr1       10100           10330 
-
 chr1     10345    10590         
-
 chr1    16100       16315      
-
 chr1    20060      20210   
-
-chr1      56200   56350   
-<pre>
+chr1      56200   56350   <pre>
 
 #Usage 
 **chmod 775 tabsep** 

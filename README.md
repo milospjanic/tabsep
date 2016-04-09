@@ -11,11 +11,9 @@ chr1      56200   56350
 <pre>
 #Usage 
 **chmod 775 tabsep** 
-
 **./tabsep file.txt**
 
 Output **file.txt**
-
 chr1    10100   10330
 chr1    10345   10590
 chr1    16100   16315
